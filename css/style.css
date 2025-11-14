@@ -172,10 +172,10 @@ button:hover {
   color: black; 
 }
 .lb-nav a.lb-prev {
-  background: url("/img/left.png");
+  background: url("../img/left.png");
 } 
 .lb-nav a.lb-next{
-  background: url("/img/Diamond_Pickaxe_JE3_BE3.png");
+  background: url("../img/Diamond_Pickaxe_JE3_BE3.png");
 } 
 .lb-data .lb-number {
   color: black; 
